@@ -10,3 +10,11 @@ Hi, My name is Murphy Liao, and I approach travel with the same mindset I bring 
 Whether navigating the vibrant energy of a major city or the quiet rhythms of a smaller town, I’m drawn to the intersection of design, innovation, and daily life. I find inspiration in local architecture, small business models, and community stories, always looking for what makes a place unique and how it reflects broader global patterns.
 
 My travels are often a blend of structured planning and spontaneous discovery. I enjoy connecting with locals, trying new experiences, and reflecting on what each journey teaches me—not just as a tourist, but as someone constantly growing both personally and professionally.
+
+
+```{python}
+x=1
+y=2
+z=x+y
+print("The sum of", x, "and", y, "is", z)
+```
